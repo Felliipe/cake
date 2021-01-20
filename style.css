@@ -8,10 +8,10 @@
 
 body {
     position: relative;
-    width: 1343px;
-    height: 1220px;
+    width: 1360px;
+    height: 600px;
 
-    background: #FFFFFF;
+    background: #dd6e84;
 }
 
 
@@ -20,8 +20,8 @@ body {
     position: absolute;
     width: 496px;
     height: 128px;
-    left: 135px;
-    top: 211px;
+    left: 420px;
+    top: 200px;
 
     font-family: "Sacramento", cursive;
     font-style: normal;
@@ -36,7 +36,7 @@ body {
     position: absolute;
     width: 292px;
     height: 37px;
-    left: 359px;
+    left: 630px;
     top: 238px;
 
     font-family: "Comfortaa", cursive;
@@ -52,8 +52,8 @@ body {
     position: absolute;
     width: 292px;
     height: 37px;
-    left: 300px;
-    top: 360px;
+    left: 590px;
+    top: 345px;
 
     font-family: "Comfortaa", cursive;
     font-style: normal;
@@ -69,8 +69,8 @@ body {
     position: absolute;
     width: 34px;
     height: 34px;
-    left: 1100px;
-    top: 550px; 
+    left: 660px;
+    top: 400px; 
     
 
 }
@@ -79,52 +79,8 @@ body {
     position: absolute;
     width: 34px;
     height: 34px;
-    left: 1000px;
-    top: 550px;
+    left: 740px;
+    top: 400px;
 
     
-}
-
-.p1 {
-    position: absolute;
-    width: 300px;
-    height: 52px;
-    left: 946px;
-    top: 61px;
-
-    font-family: "Comfortaa", cursive;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 48px;
-    line-height: 54px;
-
-
-    color: #000000;
-}
-
-.p2 {
-    position: absolute;
-    width: 452px;
-    height: 405px;
-    left: 887px;
-    top: 115px;
-
-    font-family:" Comfortaa", cursive;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 36px;
-    line-height: 40px;
-    
-    color: #000000;
-}
-.back {
-    position: absolute;
-    display: flex;
-    width: 785px;
-    height: 694px;
-    left: 0;
-    top: 0;
-
-    
-    background: #dd6e84;
 }
